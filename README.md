@@ -43,7 +43,7 @@ Material Components: Implements the Material Design components and guidelines fo
 
 **Contact**
 ---
-If you have any questions, suggestions, or issues regarding the Age Calculator app, please feel free to contact us at [email protected]
+If you have any questions, suggestions, or issues regarding the Age Calculator app, please feel free to contact me at [atharavsingh2002@gmail.com]
 
 We appreciate your interest in our app! Happy age calculating!
 
